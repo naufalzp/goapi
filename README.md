@@ -16,7 +16,7 @@ The server will start on localhost:8000.
 
 ## API Endpoints
 
--   **GET /account/coins/{username}**: Returns the coin balance of a user. The request body should be a JSON object with a username field.
+-   **GET /account/coins/{username}**: Returns the coin balance of a user by username.
 
 ## Contributing
 
